@@ -1,4 +1,5 @@
-This is a sketch for Rule 30 written in Processing.
+This is a sketch for Rule 30 written in Processing. Here is a download link
+for Processing: https://processing.org/download/?processing
 
 To start the sketch, open file in Processing and press the 'play' icon.
 The screen will appear blank. To start the program, click the mouse button.
